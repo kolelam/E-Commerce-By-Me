@@ -39,9 +39,7 @@ Once the project is set up and running, you can use Insomnia to interact with th
 ## Walkthrough Video
 Please find the walkthrough video demonstrating the application's functionality and meeting all the acceptance criteria here:
 
-
-
-
+https://drive.google.com/file/d/1Q6W2rPrFplBVKAaaNC1UBrjo6cYBwiP-/view?usp=sharing
 <video>
   <source src="C:\Users\Lil Kole\bootcamp\13-Challenge\Assets\Untitled_ Jul 17, 2023 6_28 PM (video-converter.com).mp4" type="video/mp4">
   <!-- Add additional <source> tags for other supported video formats -->
